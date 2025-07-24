@@ -1,0 +1,26 @@
+{
+    "id": "F0BE1102",
+    "path": "~/Desktop/Paper_manuscript/Clean_projectCodes/R/runL2rateCase.R",
+    "project_path": "R/runL2rateCase.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1752470172944.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "23,77",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1752498503,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1752498503,
+    "read_only": false,
+    "read_only_alternatives": []
+}
